@@ -30,11 +30,13 @@ radius3 = getCMFromFeet(8);
 radius4 = getCMFromFeet(8.5);
 radius5 = getCMFromFeet(9);
 radius6 = getCMFromFeet(9.5);
+radius7 = getCMFromFeet(10);
+radius8 = getCMFromFeet(10.5);
+radius9 = getCMFromFeet(11);
+radius10 = getCMFromFeet(12);
+radius11 = getCMFromFeet(13);
 
 //feetCMRatio = 30.48;
 
 barLength = 400;
-getBar(radius3, radius4);
-
-
-//cylinder(h = 2, r= 40, true);
+getBar(radius10, radius11);
